@@ -65,7 +65,7 @@ a:hover {
     display: block;
   }
   h2 {
-    font-size: 30px;
+    flex-direction: column;
   }
   p {
     font-size: 25px;
